@@ -1,0 +1,16 @@
+@import "reset.css";
+
+
+#two-column{
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+}
+
+
+
+
+table, th, td ,tr {
+    border:1px solid black;
+    margin: 10px;
+  }
